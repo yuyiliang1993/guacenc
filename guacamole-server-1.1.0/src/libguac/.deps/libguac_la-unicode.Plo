@@ -1,0 +1,11 @@
+libguac_la-unicode.lo: unicode.c /usr/include/stdc-predef.h \
+ ../../config.h guacamole/unicode.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h
+
+/usr/include/stdc-predef.h:
+
+../../config.h:
+
+guacamole/unicode.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.8.5/include/stddef.h:
